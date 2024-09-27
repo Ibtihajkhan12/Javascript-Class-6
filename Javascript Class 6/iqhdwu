@@ -1,0 +1,35 @@
+Task # 1
+Problem: Student Attendance Tracker
+Write a JavaScript program to track student attendance in a class using an array. The program should:
+
+Ask the user (teacher) to enter the number of students in the class.
+Use a for loop to prompt the teacher to enter the student's name and whether the student is "Present" or "Absent".
+Store the names of absent students in an array.
+At the end, display a message showing how many students are present and the names of the absent students.
+Requirements:
+Use an array to store student names.
+Use a for loop to get attendance for each student.
+Use if-else statements to check whether a student is present or absent.
+Use nested if statements to ensure valid input (e.g., "Present" or "Absent" only).
+
+
+
+
+
+
+
+
+Task # 2
+Problem: Simple Quiz App
+Write a JavaScript program that conducts a quiz for a user. The program should:
+
+Store a list of 5 questions and their correct answers in two arrays.
+Use a for loop to display each question using prompt and ask for the user's answer.
+Use if-else to check if the user's answer is correct.
+Keep track of how many answers are correct and how many are wrong.
+At the end, display the user's total score and a message based on their performance (using nested if for grading).
+Requirements:
+Use two arrays: one for the questions and one for the correct answers.
+Use a for loop to display the questions and capture the user's answer.
+Use if-else to compare the user's answer with the correct one.
+Use nested if statements to give feedback based on the score (like grading A, B, C, etc.)
